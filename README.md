@@ -12,13 +12,15 @@ It uses MacOS's native side-by-side view. Many apps, such as Rectangle, allow si
 1. Open Automator
 2. Make a new Quick Action
 3. Make sure it receives 'no input' at all programs
-4. Select Run Apple Script and copy the content of split_view_chrome_tabs.scpt
+4. Select Run Apple Script and copy the content of split_view_chrome_tabs.scpt  
 ![image](img/split_view_chrome_tabs.png)
 5. Save! (I used split_screen_google_chrome which you will find below)
-6. Go to System Preferences > Keyboard > Shortcuts. Select Services from the sidebar and find your service (the name used above). Add a shortcut by double clicking (none). Click Done
+6. Go to System Preferences > Keyboard > Shortcuts. Select Services from the sidebar and find your service (the name used above). Add a shortcut by double clicking (none). Click Done  
 ![image](img/split_view_chrome_tabs_shortcut.png)
-7. In System Preferences, go to Privacy & Security > Accessibility, allow Automator and Google Chrome
+7. In System Preferences, go to Privacy & Security > Accessibility, allow Automator and Google Chrome  
 ![image](img/split_view_chrome_tabs_accessibility.png)
+8. The first time you use the short cut, you may be asked to allow Google Chrome to access System Events. Accept.  
+![image](img/split_view_chrome_tabs_system_prompt.png)
 8. We're done :tada:
 
 ## Resizing/Compressing screen recordings from mobile devices
