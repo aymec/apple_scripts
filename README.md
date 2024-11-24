@@ -9,7 +9,7 @@ When in Google Chrome, will pull the active tab and move it to the right of the 
 I usually put the Chrome window from which the Tab was taken.  
 It uses MacOS's native side-by-side view. Many apps, such as Rectangle, allow side by side view, but not in the full-screen native MacOS way.  
 In this video, the automation starts immediately until the tab is set to the right of the screen. After that, it's all manual. I pick the other window to set on the left. And to go back, right click the tab and move it back to the other window.  
-https://github.com/user-attachments/assets/2f14906b-1641-4c1c-b436-3873e7ac2913
+<video src="https://github.com/user-attachments/assets/0a03dc03-9628-4fe3-bd5a-6a6198f9e81a"></video>
 
 1. Open Automator
 2. Make a new Quick Action
